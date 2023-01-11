@@ -1,0 +1,18 @@
+form {
+  color: #000000;
+}
+
+div {
+  background-color: #4d4d4d;
+  padding: 20px;
+  padding-top: 1em;
+  width: 100%;
+  color: #ffffff;
+}
+
+.container {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
